@@ -2,8 +2,8 @@
 description: >-
   Open-source, built by a global community, with only doxxed core team members
   displayed here.
-cover: ../.gitbook/assets/roblox (2).webp
-coverY: -80.6435643564356
+cover: ../.gitbook/assets/rocket 1.webp
+coverY: 209
 ---
 
 # Meet The Team
