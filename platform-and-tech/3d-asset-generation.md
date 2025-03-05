@@ -9,6 +9,10 @@ coverY: 21.405217391304348
 
 # 3D Asset Generation
 
+{% embed url="https://youtu.be/3zDZeLmfXb4" %}
+Buu.Fun - Getting Started
+{% endembed %}
+
 ## **Revolutionizing Game Development with AI-Generated 3D Models**
 
 BUU.FUN leverages advanced AI-driven algorithms to streamline **3D asset creation**, enabling game studios to generate high-quality models **faster, more efficiently, and with greater creative flexibility**. Traditional asset development is a time-intensive process that requires skilled 3D artists, modelers, and texture designers to manually craft each object. BUU.FUN automates and enhances this process, allowing developers to focus on design and gameplay rather than technical constraints.
