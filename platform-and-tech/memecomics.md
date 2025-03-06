@@ -3,6 +3,7 @@ description: >-
   Memecomics transforms AI-generated storytelling by creating dynamic,
   meme-driven comics for game marketing, community engagement, and viral
   content.
+hidden: true
 cover: ../.gitbook/assets/6.webp
 coverY: 319.8191304347826
 ---
