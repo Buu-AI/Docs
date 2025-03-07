@@ -15,10 +15,7 @@
 ## AI Agent
 
 * [@buudotfun on X (Twitter)](ai-agent/buudotfun-on-x-twitter.md)
-
-## $BUU
-
-* [Token Utility & Economics](usdbuu/token-utility-and-economics.md)
+* [AI Agent Token](ai-agent/ai-agent-token.md)
 
 ## Timeline
 
