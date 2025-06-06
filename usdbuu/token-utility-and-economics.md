@@ -37,19 +37,17 @@ Users who stake $BUU unlock several key advantages:
 
 The **total supply of $BUU is 1 billion tokens**, allocated as follows:
 
-<table><thead><tr><th width="130">Category</th><th width="102">Tokens</th><th width="116">% of Supply</th><th width="123">Unlock at TGE</th><th width="92">Vesting (Months)</th><th width="189">Wallets</th></tr></thead><tbody><tr><td>Team</td><td>200M</td><td>20.0%</td><td>0%</td><td>12</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/9dPmJiBYbKms9cZk9yz9vDdMCJzgySFWDPCMdEEPLKrw">9dPmJiBYbKms9cZk9yz9vDdMCJzgySFWDPCMdEEPLKrw</a></td></tr><tr><td>Liquidity Provision</td><td>125M</td><td>12.5%</td><td>100%</td><td>N/A</td><td><a href="https://solscan.io/account/CfscKScJarnPmFokMyK94Do2dpgGLzqrH67bb2vUN1uB">CfscKScJarnPmFokMyK94Do2dpgGLzqrH67bb2vUN1uB</a></td></tr><tr><td>Ecosystem </td><td>145M</td><td>14.5%</td><td>0%</td><td>24</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/4PFuBsgoyNXGDte9rQtF6g6w1m1fV4sdRpSQsynLvL3B">4PFuBsgoyNXGDte9rQtF6g6w1m1fV4sdRpSQsynLvL3B</a></td></tr><tr><td>Advisors</td><td>30M</td><td>3.0%</td><td>0%</td><td>12</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/BHAe6BCzJ5yFbz7ja6MY197GAYGjWJY6Q5VEnRtNBKco">BHAe6BCzJ5yFbz7ja6MY197GAYGjWJY6Q5VEnRtNBKco</a></td></tr><tr><td>$LEONAI Airdrop/Bridge</td><td>500M</td><td>50.0%</td><td>100%</td><td>N/A</td><td>N/A</td></tr></tbody></table>
+<table><thead><tr><th width="130">Category</th><th width="102">Tokens</th><th width="116">% of Supply</th><th width="123">Unlock at TGE</th><th width="92">Vesting (Months)</th><th width="189">Wallets</th></tr></thead><tbody><tr><td>Team</td><td>200M</td><td>20.0%</td><td>0%</td><td>12</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/9dPmJiBYbKms9cZk9yz9vDdMCJzgySFWDPCMdEEPLKrw">9dPmJiBYbKms9cZk9yz9vDdMCJzgySFWDPCMdEEPLKrw</a></td></tr><tr><td>Liquidity Provision</td><td>125M</td><td>12.5%</td><td>100%</td><td>N/A</td><td><a href="https://solscan.io/account/CfscKScJarnPmFokMyK94Do2dpgGLzqrH67bb2vUN1uB">CfscKScJarnPmFokMyK94Do2dpgGLzqrH67bb2vUN1uB</a></td></tr><tr><td>Ecosystem </td><td>145M</td><td>14.5%</td><td>0%</td><td>24</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/4PFuBsgoyNXGDte9rQtF6g6w1m1fV4sdRpSQsynLvL3B">4PFuBsgoyNXGDte9rQtF6g6w1m1fV4sdRpSQsynLvL3B</a></td></tr><tr><td>Advisors</td><td>30M</td><td>3.0%</td><td>0%</td><td>12</td><td><a href="https://app.streamflow.finance/contract/solana/mainnet/BHAe6BCzJ5yFbz7ja6MY197GAYGjWJY6Q5VEnRtNBKco">BHAe6BCzJ5yFbz7ja6MY197GAYGjWJY6Q5VEnRtNBKco</a></td></tr><tr><td>$LEONAI Airdrop/Bridge</td><td>350M</td><td>50.0%</td><td>100%</td><td>N/A</td><td>N/A</td></tr></tbody></table>
 
 {% hint style="success" %}
 **Ecosystem**: This allocation will be released to reward active stakers, key players and potential partnerships, ensuring sustainable token utility and growth over time.
 {% endhint %}
 
 {% hint style="danger" %}
-**$LEONAI Airdrop/Bridge:** All tokens left from the LEONAI migration will be burnt on the `1st of April 2025`, ensuring a deflationary supply and long-term sustainability.
+:fire::fire::fire:  **76,270,778.23** $BUU tokens were burnt ([https://solscan.io/tx/4LCboVhRAQeswiKaZAxmmoS2rx1BeoSJJuWTwvmVY4sgFKBkpPwduyUEztWJWuxVkt8jdiHhDFpNAegLruGqhQas](https://solscan.io/tx/4LCboVhRAQeswiKaZAxmmoS2rx1BeoSJJuWTwvmVY4sgFKBkpPwduyUEztWJWuxVkt8jdiHhDFpNAegLruGqhQas)) after the $LEONAI Airdrop/Bridge late migration. In addition to this, the founder Carlos Roldan burnt an additional personal bag of **23,741,438** $BUU tokens ([https://solscan.io/tx/4pcHoPqvnEpYtLgfj3WcdmmdNmfoybQyUrBJGDymxrD5fE6G29FZ82bWZYN62eKohUE5FgzdF2QCkxArQVniKF5m](https://solscan.io/tx/4pcHoPqvnEpYtLgfj3WcdmmdNmfoybQyUrBJGDymxrD5fE6G29FZ82bWZYN62eKohUE5FgzdF2QCkxArQVniKF5m)) to round up to +100M $BUU tokens. Adjusting the total supply to 900M $BUU tokens as seen on: [https://solscan.io/token/88n8pBT6doB5rHP7WcAaG8TuVY1baWazzxAS7Bm8virt](https://solscan.io/token/88n8pBT6doB5rHP7WcAaG8TuVY1baWazzxAS7Bm8virt)
 {% endhint %}
 
-{% embed url="https://docs.google.com/spreadsheets/d/1230QFu8hM0qXUh661xkAMRvWUppf0rJ5/edit?usp=sharing&ouid=104057553023474045788&rtpof=true&sd=true" %}
-$BUU - Tokenomics
-{% endembed %}
+{% include "../.gitbook/includes/usdbuu-tokenomics.md" %}
 
 ## **How to Access Premium Services**
 
